@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaltSenpai
 - 👀 I’m interested in gaming and coding.
 - 🌱 I’m currently learning a lot of things.
-- 💞️ I’m looking to collaborate on s/w dev.
+- 💞️ I’m looking to collaborate on s/w dev and webDev.
 - 📫 How to reach me : just dm me lol
 
 <!---
