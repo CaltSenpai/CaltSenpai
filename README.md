@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaltSenpai
+- 👋 Hi, I’m Calton John.
 - 👀 I’m interested in UI/UX Development and gaming.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on s/w dev and webDev.
